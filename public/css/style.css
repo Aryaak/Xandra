@@ -12,6 +12,14 @@
     margin: auto;
 }
 
+.nav-sm-link {
+    color: #00221D !important;
+}
+
+.sticky li.active.nav-sm-link {
+    color: white !important;
+}
+
 li.active,
 .nav-link:hover {
     transition: 1s all ease-in;
